@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private String a = "";
+    private String a = "a";
 
 
 }
